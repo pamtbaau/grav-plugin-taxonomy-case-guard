@@ -1,0 +1,12 @@
+parameters:
+    level: 9
+    paths:
+        - classes
+        - cli
+        - taxonomy-case-guard.php
+    scanDirectories:
+        - /www/grav/grav-admin/system
+        - /www/grav/grav-admin/vendor
+    bootstrapFiles:
+        - /www/grav/grav-admin/system/defines.php
+  

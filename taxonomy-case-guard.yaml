@@ -1,0 +1,2 @@
+enabled: true
+case: capitalize    # use one of capitalize|uppercase|lowercase

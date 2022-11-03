@@ -1,0 +1,4 @@
+en:
+  PLUGIN_TAXONOMY_CASE_GUARD:
+    CASE: Case
+    CASE_HELP: Default case for taxonomy values
